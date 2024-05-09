@@ -5,7 +5,7 @@ import User from "./components/user/user";
 const AppRoutes = () => {
     return (
         <Routes>
-            <Route path={"/chat-user1"} element={<Admin/>}/>
+            <Route path={"/"} element={<Admin/>}/>
             <Route path={"/chat-user2"} element={<User/>}/>
         </Routes>
     )
