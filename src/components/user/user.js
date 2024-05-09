@@ -1,4 +1,4 @@
-import { UIKitProvider, Chat, ConversationList, useClient, rootStore } from 'agora-chat-uikit';
+import { Chat, ConversationList, useClient, rootStore } from 'agora-chat-uikit';
 import { useEffect } from 'react';
 
 
